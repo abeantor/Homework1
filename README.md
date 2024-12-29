@@ -1,4 +1,4 @@
-# Hi there, I'm Amit Biswas 👋
+# Hi there, This is Antor 👋
 
 <p align="center">
   <img src="https://via.placeholder.com/150" alt="Profile Picture" style="border-radius: 50%; width: 150px;">
@@ -7,7 +7,7 @@
 ---
 
 ### 🌟 **Dream | Create | Prevail | Mankind**  
-A Tech enthusiast with a big vision.  ¯\\_(ツ)_/¯  
+Inspiring DevOps. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/amitsstory)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/amitsstory)
