@@ -1,13 +1,9 @@
 # Hi there, This is Antor 👋
 
-<p align="center">
-  <img src="https://via.placeholder.com/150" alt="Profile Picture" style="border-radius: 50%; width: 150px;">
-</p>
-
 ---
 
 ### 🌟 **Dream | Create | Prevail | Mankind**  
-Inspiring DevOps. 
+Every journey begins with a single step, and mine started with a deep curiosity about technology and problem-solving. From learning to code to exploring cloud technologies, I’m building my future as a DevOps professional, one challenge at a time. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/amitsstory)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/amitsstory)
@@ -17,36 +13,20 @@ Inspiring DevOps.
 
 ### About Me 📝
 
-> Every morning begins with a simple ritual—a mug of black coffee, a reminder of the new possibilities each day holds.  
-> From the vibrant streets of Rajshahi to the peaceful shores of New York, my journey is a tale of dreams pursued and challenges overcome.
+> I'm passionate about bridging the gap between development and operations, ensuring seamless CI/CD pipelines and scalable cloud infrastructure. My focus is on learning and leveraging cutting-edge tools to optimize workflows and enhance system reliability.
 
-- **Professional Highlights**:
-  - Contributions to **mobile application development** at top firms like Google, Amazon, and Progressive Insurance.
-  - Entrepreneurial spirit driving tech startups.
-
-- **My Philosophy**:  
-  The pursuit of dual careers and side hustles showcases my belief in the golden age of endless possibilities.
+- **Current Goals:**:
+ - Mastering AWS services like EC2, S3, CloudFormation, and CodePipeline
+ - Building expertise in Infrastructure as Code (IaC) with Terraform
+ - Exploring containerization with Docker and orchestration with Kubernetes
+ 
 
 ---
 
-### 🚀 My Startups and Projects
-- **[Innovetix](#)**: Full-fledged app development company combining IoT, AI, and ML.  
-- **[Volthub](#)**: AI-powered Peer-to-Peer Charging platform ensuring cost-efficient public and private charging solutions.
-
----
-
-### 🌿 AWS Certified DevOps Engineer – Professional  
-This certification marks a significant milestone in my journey with cloud technologies.  
-Skills include:  
-- AWS CodePipeline, AWS Elastic Beanstalk, EC2, S3, Lambda, CloudFormation, and more.  
-- Expertise in CI/CD and automated deployments.
-
----
-
-### ⚡ Fun Facts  
-- 🎸 **Hobbies**: Music, Photography, Tech innovations.  
-- 🍰 **Favorites**: Cheesecake (in moderation).  
-- 💬 Ask me about: **Next-gen app development and startups**.
+### ⚡ Fun Facts:
+- My first programming language was C++
+- I enjoy discovering the intersection of technology with real-world solutions.
+- Outside of tech, you’ll find me exploring music, sports, or the latest tech gadgets. 
 
 ---
 
@@ -61,12 +41,6 @@ Skills include:
 </p>
 
 ---
-
-### 📌 Pinned Projects  
-| Project Name      | Description                         | Technologies |
-|-------------------|-------------------------------------|--------------|
-| [**Competitive Programming**](#) | Algorithms and problem-solving with Swift | `Swift`       |
-| [**GitHub Explorer**](#)         | Tools for repo exploration on GitHub      | `Swift`, `HTML` |
 
 <p align="center">
   <img src="https://via.placeholder.com/500x300" alt="Sample Graphic" style="border-radius: 10px;">
