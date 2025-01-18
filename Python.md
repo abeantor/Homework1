@@ -20,6 +20,7 @@ A **list** is an ordered collection of different data types. It is mutable, mean
 ## Creating a List
 
 ### Using `list()` Constructor
+Using list() Constructor: The list() function creates an empty list or converts an iterable into a list.
 ```python
 empty_list = list()
 print(empty_list)  # Output: []
@@ -27,6 +28,7 @@ print(len(empty_list))  # Output: 0
 ```
 
 ### Using Square Brackets `[]`
+Using Square Brackets ([]): Square brackets are a shorthand for creating lists.
 ```python
 empty_list = []
 print(empty_list)  # Output: []
@@ -34,6 +36,7 @@ print(len(empty_list))  # Output: 0
 ```
 
 ### Lists with Initial Values
+Lists with Initial Values: Lists can be initialized with predefined elements.
 ```python
 fruits = ['banana', 'orange', 'mango', 'lemon']
 print('Fruits:', fruits)  # Output: Fruits: ['banana', 'orange', 'mango', 'lemon']
@@ -45,6 +48,7 @@ print('Number of fruits:', len(fruits))  # Output: 4
 ## Accessing List Items
 
 ### Positive Indexing
+Positive Indexing: Access items using their position, starting at 0.
 Indexing starts at `0`.
 ```python
 fruits = ['banana', 'orange', 'mango', 'lemon']
@@ -53,6 +57,7 @@ print(fruits[2])  # Output: mango
 ```
 
 ### Negative Indexing
+Negative Indexing: Access items from the end of the list, starting at -1.
 Negative indices start at `-1` (last item).
 ```python
 fruits = ['banana', 'orange', 'mango', 'lemon']
@@ -63,7 +68,7 @@ print(fruits[-3])  # Output: orange
 ---
 
 ## Unpacking List Items
-
+Unpacking List Items: Assign individual items to variables in a list.
 You can unpack a list into variables:
 ```python
 fruits = ['banana', 'orange', 'mango', 'lemon']
@@ -75,7 +80,7 @@ print(rest)   # Output: ['lemon']
 ---
 
 ## Slicing Lists
-
+Positive Index Slicing: Extract a subset of the list using positive indices.
 ### Positive Index Slicing
 ```python
 fruits = ['banana', 'orange', 'mango', 'lemon']
@@ -85,6 +90,7 @@ print(fruits[::2])  # Output: ['banana', 'mango']
 ```
 
 ### Negative Index Slicing
+Negative Index Slicing: Extract a subset of the list using negative indices.
 ```python
 print(fruits[-3:-1])  # Output: ['orange', 'mango']
 print(fruits[::-1])   # Output: ['lemon', 'mango', 'orange', 'banana']
@@ -93,7 +99,7 @@ print(fruits[::-1])   # Output: ['lemon', 'mango', 'orange', 'banana']
 ---
 
 ## Modifying Lists
-
+Lists are mutable, so you can update their contents using index assignments.
 Lists are mutable, meaning you can change their content:
 ```python
 fruits = ['banana', 'orange', 'mango', 'lemon']
@@ -156,12 +162,14 @@ print(fruits)  # Output: []
 ## List Operations
 
 ### Copying a List
+Copying a List: Create a duplicate of a list using the copy() method.
 ```python
 fruits_copy = fruits.copy()
 print(fruits_copy)  # Output: ['banana', 'orange', 'mango', 'lemon']
 ```
 
 ### Joining Lists
+Joining Lists: Combine two or more lists into one.
 ```python
 fruits = ['banana', 'orange']
 vegetables = ['carrot', 'onion']
@@ -170,22 +178,26 @@ print(combined)  # Output: ['banana', 'orange', 'carrot', 'onion']
 ```
 
 ### Counting Items
+Counting Items: Count occurrences of a specific value in the list.
 ```python
 print(fruits.count('banana'))  # Output: 1
 ```
 
 ### Finding the Index of an Item
+Finding the Index of an Item: Get the index of the first occurrence of a value.
 ```python
 print(fruits.index('orange'))  # Output: 1
 ```
 
 ### Reversing a List
+Reversing a List: Reverse the order of the elements in the list.
 ```python
 fruits.reverse()
 print(fruits)  # Output: ['lemon', 'mango', 'orange', 'banana']
 ```
 
 ### Sorting a List
+Sorting a List: Arrange the items in ascending or descending order.
 ```python
 fruits.sort()
 print(fruits)  # Output: ['banana', 'lemon', 'mango', 'orange']
