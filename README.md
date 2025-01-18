@@ -23,7 +23,8 @@ Every journey begins with a single step, and mine started with a deep curiosity 
 ---
 
 ### ⚡ My Study Guide:
-- [[Python](https://github.com/abeantor/Homework1/blob/new_branch/Python.md)
+- [Python](https://github.com/abeantor/Homework1/blob/new_branch/Python.md)
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
