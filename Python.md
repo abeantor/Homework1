@@ -211,6 +211,16 @@ print(fruits)  # Output: ['banana', 'lemon', 'mango', 'orange']
 empty_list = []
 ```
 
+
+
+### Exercises
+
+## 1. You can declare an empty list in Python using the following syntax:
+
+```python
+empty_list = []
+```
+
 ## 2. Declare a list with more than 5 items
 
 ```python
