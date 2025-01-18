@@ -201,3 +201,76 @@ Sorting a List: Arrange the items in ascending or descending order.
 ```python
 fruits.sort()
 print(fruits)  # Output: ['banana', 'lemon', 'mango', 'orange']
+
+
+# Python Exercises - Level 1
+
+## 1. Declare an empty list
+
+```python
+empty_list = []
+```
+
+## 2. Declare a list with more than 5 items
+
+```python
+my_list = [1, 2, 3, 4, 5, 6, 7]
+```
+
+## 3. Find the length of your list
+
+```python
+list_length = len(my_list)
+print(list_length)
+```
+
+## 4. Get the first item, the middle item and the last item of the list
+
+```python
+first_item = my_list[0]
+middle_item = my_list[len(my_list) // 2]
+last_item = my_list[-1]
+
+print(first_item, middle_item, last_item)
+```
+
+## 5. Declare a list called `mixed_data_types`, put your(name, age, height, marital status, address)
+
+```python
+mixed_data_types = ["Abu", 25, 5.9, "Single", "Noakhali, Bangladesh"]
+```
+
+## 6. Declare a list variable named `it_companies` and assign initial values Facebook, Google, Microsoft, Apple, IBM, Oracle and Amazon.
+
+```python
+it_companies = ["Facebook", "Google", "Microsoft", "Apple", "IBM", "Oracle", "Amazon"]
+```
+
+## 7. Print the list using print()
+
+```python
+print(it_companies)
+```
+
+## 8. Print the number of companies in the list
+
+```python
+print(len(it_companies))
+```
+
+## 9. Print the first, middle and last company
+
+```python
+first_company = it_companies[0]
+middle_company = it_companies[len(it_companies) // 2]
+last_company = it_companies[-1]
+
+print(first_company, middle_company, last_company)
+```
+
+## 10. Print the list after modifying one of the companies
+
+```python
+it_companies[2] = "Microsoft Corporation"
+print(it_companies)
+```
