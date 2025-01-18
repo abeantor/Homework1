@@ -20,6 +20,10 @@ Every journey begins with a single step, and mine started with a deep curiosity 
  - Building expertise in Infrastructure as Code (IaC) with Terraform
  - Exploring containerization with Docker and orchestration with Kubernetes
  
+---
+
+### ⚡ My Study Guide:
+- [![Python](https://github.com/abeantor/Homework1/blob/new_branch/Python.md)
 
 ---
 
