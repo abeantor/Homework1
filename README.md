@@ -24,7 +24,8 @@ Every journey begins with a single step, and mine started with a deep curiosity 
 
 ### ⚡ My Study Guide:
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/abeantor/Homework1/blob/new_branch/Python.md)
-![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://github.com/abeantor/Homework1/blob/new_branch/DevOps.md)
+
 
 
 ---
